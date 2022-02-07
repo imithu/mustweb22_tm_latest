@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Ahmed",
+    "start": "08:00",
+    "end": "18:00",
+    "total": "10H",
+    "image": "default.jpg"
+  },
+  {
+    "name": "Federico",
+    "start": "07:00",
+    "end": "19:00",
+    "total": "12H",
+    "image": "default.jpg"
+  },
+  {
+    "name": "Hufsa",
+    "start": "03:00(7:00)",
+    "end": "14:00(18:00)",
+    "total": "12H",
+    "image": "default.jpg"
+  },
+  {
+    "name": "Mithu",
+    "start": "03:00 (08:00)",
+    "end": "18:00 (00:00)",
+    "total": "16H",
+    "image": "Mithu.jpg"
+  },
+  {
+    "name": "Muqadas",
+    "start": "04:00 (08:00)",
+    "end": "16:00 (20:00)",
+    "total": "14H",
+    "image": "default.jpg"
+  },
+  {
+    "name": "Rizwan",
+    "start": "08:00",
+    "end": "14:00",
+    "total": "6H",
+    "image": "default.jpg"
+  }
+]

@@ -1,0 +1,574 @@
+{
+  "language": {
+    "Bash": {
+      "Ahmed": 1,
+      "Hufsa": 1,
+      "Mithu": 1,
+      "Muqadas": 1,
+      "Rizwan": 0
+    },
+    "c++": {
+      "Ahmed": 1,
+      "Hufsa": 3,
+      "Mithu": 0,
+      "Muqadas": 3,
+      "Rizwan": 0
+    },
+    "c#": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 0,
+      "Muqadas": 0,
+      "Rizwan": 1
+    },
+    "css": {
+      "Ahmed": 2,
+      "Hufsa": 3,
+      "Mithu": 3,
+      "Muqadas": 3,
+      "Rizwan": 3
+    },
+    "Dart": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 0,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "Go": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 0,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "HTML 5": {
+      "Ahmed": 3,
+      "Hufsa": 3,
+      "Mithu": 3,
+      "Muqadas": 2,
+      "Rizwan": 3
+    },
+    "Java": {
+      "Ahmed": 0,
+      "Hufsa": 2,
+      "Mithu": 0,
+      "Muqadas": 2,
+      "Rizwan": 0
+    },
+    "Javascript": {
+      "Ahmed": 3,
+      "Hufsa": 2,
+      "Mithu": 3,
+      "Muqadas": 2,
+      "Rizwan": 3
+    },
+    "JSON": {
+      "Ahmed": 2,
+      "Hufsa": 0,
+      "Mithu": 3,
+      "Muqadas": 0,
+      "Rizwan": 3
+    },
+    "Kotlin": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 0,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "MD": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 3,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "PHP 7": {
+      "Ahmed": 2,
+      "Hufsa": 1,
+      "Mithu": 3,
+      "Muqadas": 0,
+      "Rizwan": 3
+    },
+    "PHP 8": {
+      "Ahmed": 2,
+      "Hufsa": 1,
+      "Mithu": 3,
+      "Muqadas": 0,
+      "Rizwan": 3
+    },
+    "Python": {
+      "Ahmed": 3,
+      "Hufsa": 3,
+      "Mithu": 0,
+      "Muqadas": 3,
+      "Rizwan": 0
+    },
+    "Sass": {
+      "Ahmed": 1,
+      "Hufsa": 0,
+      "Mithu": 3,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "Solidity": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 0,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "SQL": {
+      "Ahmed": 2,
+      "Hufsa": 2,
+      "Mithu": 3,
+      "Muqadas": 2,
+      "Rizwan": 3
+    },
+    "Swift": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 0,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "TypeScript": {
+      "Ahmed": 3,
+      "Hufsa": 0,
+      "Mithu": 3,
+      "Muqadas": 0,
+      "Rizwan": 1
+    },
+    "XML": {
+      "Ahmed": 0,
+      "Hufsa": 1,
+      "Mithu": 1,
+      "Muqadas": 1,
+      "Rizwan": 0
+    }
+  },
+  "Framework_and_CMS": {
+    "Angular": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 0,
+      "Muqadas": 0,
+      "Rizwan": 1
+    },
+    "Bootstrap v4": {
+      "Ahmed": 3,
+      "Hufsa": 1,
+      "Mithu": 3,
+      "Muqadas": 2,
+      "Rizwan": 3
+    },
+    "Bootstrap v5": {
+      "Ahmed": 3,
+      "Hufsa": 1,
+      "Mithu": 3,
+      "Muqadas": 1,
+      "Rizwan": 3
+    },
+    "dJango": {
+      "Ahmed": 3,
+      "Hufsa": 0,
+      "Mithu": 0,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "Ionic": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 3,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "Laravel": {
+      "Ahmed": 1,
+      "Hufsa": 0,
+      "Mithu": 3,
+      "Muqadas": 0,
+      "Rizwan": 3
+    },
+    "Next": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 0,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "Nuxt": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 3,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "React Native": {
+      "Ahmed": 3,
+      "Hufsa": 0,
+      "Mithu": 0,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "Svelte": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 0,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "Vue": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 3,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "Vue Ecosystem": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 3,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "Vuesax": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 3,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "Wordpress": {
+      "Ahmed": 3,
+      "Hufsa": 1,
+      "Mithu": 0,
+      "Muqadas": 1,
+      "Rizwan": 3
+    }
+  },
+  "LibraryAndRuntime": {
+    "Alertify.JS": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 3,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "ApexChart": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 3,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "Axios": {
+      "Ahmed": 3,
+      "Hufsa": 0,
+      "Mithu": 3,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "Capacitor": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 3,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "Chart.js": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 3,
+      "Muqadas": 0,
+      "Rizwan": 2
+    },
+    "jQuery": {
+      "Ahmed": 0,
+      "Hufsa": 1,
+      "Mithu": 3,
+      "Muqadas": 1,
+      "Rizwan": 3
+    },
+    "Moment": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 3,
+      "Muqadas": 0,
+      "Rizwan": 2
+    },
+    "Node.js": {
+      "Ahmed": 3,
+      "Hufsa": 0,
+      "Mithu": 2,
+      "Muqadas": 0,
+      "Rizwan": 1
+    },
+    "React": {
+      "Ahmed": 3,
+      "Hufsa": 1,
+      "Mithu": 1,
+      "Muqadas": 1,
+      "Rizwan": 1
+    },
+    "React Ecosystem": {
+      "Ahmed": 3,
+      "Hufsa": 0,
+      "Mithu": 0,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "RTCMultiConnection.js": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 3,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "Socket.IO": {
+      "Ahmed": 1,
+      "Hufsa": 0,
+      "Mithu": 3,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "Swiper": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 3,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "Tailwindcss": {
+      "Ahmed": 0,
+      "Hufsa": 1,
+      "Mithu": 3,
+      "Muqadas": 1,
+      "Rizwan": 2
+    },
+    "Three.js": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 0,
+      "Muqadas": 0,
+      "Rizwan": 1
+    },
+    "VideoJS": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 3,
+      "Muqadas": 0,
+      "Rizwan": 3
+    }
+  },
+  "PaymentSystem": {
+    "Bitcoin": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 3,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "Etherium": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 0,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "Paypal": {
+      "Ahmed": 0,
+      "Hufsa": 2,
+      "Mithu": 2,
+      "Muqadas": 2,
+      "Rizwan": 0
+    },
+    "Stripe": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 1,
+      "Muqadas": 0,
+      "Rizwan": 0
+    }
+  },
+  "Graphics": {
+    "Figma": {
+      "Ahmed": 3,
+      "Hufsa": 0,
+      "Mithu": 2,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "Gimp": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 1,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "Illustrator": {
+      "Ahmed": 3,
+      "Hufsa": 1,
+      "Mithu": 1,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "Photoshop": {
+      "Ahmed": 2,
+      "Hufsa": 1,
+      "Mithu": 1,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "Premiere Pro": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 1,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "XD": {
+      "Ahmed": 2,
+      "Hufsa": 0,
+      "Mithu": 1,
+      "Muqadas": 0,
+      "Rizwan": 0
+    }
+  },
+  "Misc": {
+    "Apache Server": {
+      "Ahmed": 2,
+      "Hufsa": 2,
+      "Mithu": 2,
+      "Muqadas": 1,
+      "Rizwan": 0
+    },
+    "AWS": {
+      "Ahmed": 2,
+      "Hufsa": 0,
+      "Mithu": 2,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "Azure": {
+      "Ahmed": 2,
+      "Hufsa": 0,
+      "Mithu": 1,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "CLI": {
+      "Ahmed": 0,
+      "Hufsa": 3,
+      "Mithu": 3,
+      "Muqadas": 3,
+      "Rizwan": 0
+    },
+    "Composer": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 3,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "GCP": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 1,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "Git": {
+      "Ahmed": 3,
+      "Hufsa": 2,
+      "Mithu": 3,
+      "Muqadas": 2,
+      "Rizwan": 0
+    },
+    "Linux": {
+      "Ahmed": 3,
+      "Hufsa": 2,
+      "Mithu": 3,
+      "Muqadas": 2,
+      "Rizwan": 0
+    },
+    "Mac": {
+      "Ahmed": 3,
+      "Hufsa": 0,
+      "Mithu": 2,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "npm": {
+      "Ahmed": 3,
+      "Hufsa": 0,
+      "Mithu": 3,
+      "Muqadas": 1,
+      "Rizwan": 0
+    },
+    "OpenVPN": {
+      "Ahmed": 2,
+      "Hufsa": 0,
+      "Mithu": 3,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "Rest API": {
+      "Ahmed": 3,
+      "Hufsa": 0,
+      "Mithu": 3,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "SSH": {
+      "Ahmed": 2,
+      "Hufsa": 0,
+      "Mithu": 3,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "FTP, SFTP": {
+      "Ahmed": 2,
+      "Hufsa": 0,
+      "Mithu": 2,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "Stun": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 3,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "Turn": {
+      "Ahmed": 0,
+      "Hufsa": 0,
+      "Mithu": 3,
+      "Muqadas": 0,
+      "Rizwan": 0
+    },
+    "VPS": {
+      "Ahmed": 0,
+      "Hufsa": 1,
+      "Mithu": 3,
+      "Muqadas": 1,
+      "Rizwan": 0
+    },
+    "Windows": {
+      "Ahmed": 3,
+      "Hufsa": 3,
+      "Mithu": 3,
+      "Muqadas": 3,
+      "Rizwan": 0
+    },
+    "yarn": {
+      "Ahmed": 0,
+      "Hufsa": 1,
+      "Mithu": 3,
+      "Muqadas": 0,
+      "Rizwan": 0
+    }
+  }
+}
